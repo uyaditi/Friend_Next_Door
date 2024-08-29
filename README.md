@@ -1,6 +1,9 @@
 # FriendNextDoor 
 FriendNextDoor is an AI-powered mental health platform, which connects users with empathetic 3D avatars to discuss concerns in a safe, private space. Users can get tailored guidance on anxiety, stress, depression, and more.
 
+<img src="https://github.com/user-attachments/assets/ab84484b-307c-49bf-afca-74d777b6f9d1" width=800 height=700 />
+
+
 ## Setup Steps
 The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the App to render Avatar (AVATAR)
 
